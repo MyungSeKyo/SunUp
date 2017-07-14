@@ -1,4 +1,5 @@
-# SunUp
+# SunUp  
+Rise high to the sky and earn high score!
 
 <img src="https://lh3.googleusercontent.com/RgrpumhWzdeYcikWrYgO8KaGw2hlQeI03elNryuJ80aODxKBwxYWtVsQnt6NTDTweg=w300-rw" width="200">
 
